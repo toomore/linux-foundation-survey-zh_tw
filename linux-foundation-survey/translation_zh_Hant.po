@@ -12,13 +12,14 @@
 # ddio <ddioibb@gmail.com>, 2023.
 # 蘇蘇 <sudosu.tw@gmail.com>, 2023.
 # Sheng <orertrr6207@gmail.com>, 2023.
+# lele_lu <1118lelelu@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-08 17:18+0000\n"
-"PO-Revision-Date: 2023-05-22 10:25+0000\n"
-"Last-Translator: Toomore Chiang <toomore0929@gmail.com>\n"
+"PO-Revision-Date: 2023-06-01 19:07+0000\n"
+"Last-Translator: lele_lu <1118lelelu@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://weblate.toomore.net/projects/"
 "linux-foundation-survey-zh-hant/survey-2023/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -66,7 +67,7 @@ msgstr ""
 "<div>感謝您參與 Linux 基金會的「全球開放原始碼：聚焦 "
 "2023」問卷調查，該問卷調查的目的是想更加瞭解跨地區和行業的開源動態。</div>\n"
 "<div> </div>\n"
-"<div>您的回覆是匿名的，將用於編製於今年稍後發佈的報告。</div>\n"
+"<div>您的回覆是匿名的，將用於今年發佈的報告。</div>\n"
 "<div> </div>\n"
 "<div>為了感謝您參與這項研究，一旦您完成問卷，確認頁面上將顯示一個折扣碼，"
 "可用於我們目錄中列出的任何 Linux 基礎培訓課程或認證考試的 75 折優惠： "
@@ -170,7 +171,7 @@ msgstr "我只能代表我在公司或組織內所屬的部門發言"
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569435}"
 msgid ""
 "I work for multiple organizations and can speak for what I see in the industry"
-msgstr "我為多個組織工作，可以代表我在行業中所看到的"
+msgstr "我為多個組織工作，可以代表我在行業中的觀點"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569436}"
 msgid "I can speak only for myself"
@@ -190,7 +191,7 @@ msgstr "不知道或不確定"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569438}"
 msgid "Student, full time or part time"
-msgstr "學生，專職或兼職"
+msgstr "學生，全職或兼職"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957569439}"
 msgid "Recent graduate, but not yet employed"
@@ -246,7 +247,7 @@ msgstr "北美（美國或加拿大）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577135}"
 msgid "Mexico, Central America, and the Caribbean"
-msgstr "墨西哥、中美洲和加勒比地區"
+msgstr "墨西哥、中美洲和加勒比海地區"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577136}"
 msgid "South America"
@@ -302,7 +303,7 @@ msgstr "大洋洲（包括澳大利亞和紐西蘭）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957644354}"
 msgid "Please enter a comment."
-msgstr "請輸入說明。"
+msgstr "請輸入您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957644357}"
 msgid "Other (please specify)"
@@ -320,15 +321,15 @@ msgstr "<strong>哪項描述最符合您的職業內容？</strong> （選擇一
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577149}"
 msgid "Software development (developer, engineer, architect, etc.)"
-msgstr "軟體開發（開發人員、工程師、架構師等）"
+msgstr "軟體開發（開發人員、工程師、軟體架構師等）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577150}"
 msgid "Software delivery (packaging, release, QA)"
-msgstr "軟體交付（打包、發佈、測試）"
+msgstr "軟體部署（封裝、發佈、測試）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577151}"
 msgid "Software development or delivery management - director or vice president"
-msgstr "軟體開發或交付管理 - 總監或副總裁"
+msgstr "軟體開發或部署管理 - 總監或副總裁"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577152}"
 msgid "Systems operations, administration, SRE, or ITSM"
@@ -348,7 +349,7 @@ msgstr "商業分析師"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577156}"
 msgid "Data scientist or machine learning"
-msgstr "資料科學家或機器學習"
+msgstr "資料科學家或機械學習者"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957577157}"
 msgid "Product or project management"
@@ -400,7 +401,7 @@ msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581531}"
 msgid ""
 "“End user” organization. An organization that primarily uses IT products and "
 "services to support their business deliverables"
-msgstr "“終端使用者”組織。主要使用 IT 產品和服務來支援其業務成品的組織"
+msgstr "“終端用戶”組織。主要使用 IT 產品和服務來支援其商業項目的組織"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957581532}"
 msgid "Hardware / software vendor"
@@ -440,7 +441,7 @@ msgstr "政府單位或機構"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957645601}"
 msgid "Please enter a comment."
-msgstr "請留下您的說明。"
+msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957645604}"
 msgid "Other entity (please specify)"
@@ -474,7 +475,7 @@ msgstr "農業"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584346}"
 msgid "Automotive"
-msgstr "汽車"
+msgstr "機動車輛"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584347}"
 msgid "Business services (accounting, management consulting, legal, etc.)"
@@ -482,7 +483,7 @@ msgstr "商務服務（會計、管理僱問、法律等）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584348}"
 msgid "Consumer packaged goods"
-msgstr "包裝消費品"
+msgstr "消費品"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584349}"
 msgid "Construction / engineering"
@@ -510,7 +511,7 @@ msgstr "政府（州、地方）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584355}"
 msgid "Health care"
-msgstr "保健"
+msgstr "醫療保健"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584356}"
 msgid "Hospitality & travel"
@@ -548,7 +549,7 @@ msgstr "電信 / 網際網路服務提供者（ISP） / 虛擬主機"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584364}"
 msgid "Transportation & logistics (other than automotive)"
-msgstr "運輸和物流（不包含汽車）"
+msgstr "運輸和物流（不包含機動車輛）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584365}"
 msgid "Utilities / energy"
@@ -556,7 +557,7 @@ msgstr "公用事業 / 能源"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957646117}"
 msgid "Please enter a comment."
-msgstr "請留下您的說明。"
+msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957646120}"
 msgid "Other (please specify)"
@@ -578,7 +579,7 @@ msgstr "農業"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584368}"
 msgid "Automotive"
-msgstr "汽車"
+msgstr "機動車輛"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584369}"
 msgid "Business services (accounting, management consulting, legal, etc.)"
@@ -586,7 +587,7 @@ msgstr "商務服務（會計、管理僱問、法律等）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584370}"
 msgid "Consumer packaged goods"
-msgstr "包裝消費品"
+msgstr "消費品"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957584371}"
 msgid "Construction / engineering"
@@ -666,7 +667,7 @@ msgstr "跨產業資訊技術（IT 供應商、服務提供者或製造商）"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957650477}"
 msgid "Please enter a comment."
-msgstr "請留下您的說明。"
+msgstr "請留下您的評價。"
 
 msgctxt "{\"cxt\": \"question_other\", \"id\": 957650480}"
 msgid "Other (please specify)"
@@ -964,7 +965,7 @@ msgstr "進階分析和資料科學"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590123}"
 msgid "Artificial Intelligence / Machine Learning"
-msgstr "人工智慧 / 機器學習"
+msgstr "人工智慧 / 機械學習"
 
 msgctxt "{\"cxt\": \"question_option_text\", \"id\": 957590124}"
 msgid "Augmented / Virtual reality"
@@ -2528,7 +2529,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong> "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 msgctxt "{\"cxt\": \"survey_next\", \"id\": 511771208}"
@@ -2582,7 +2583,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2598,7 +2599,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2614,7 +2615,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2646,7 +2647,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2662,7 +2663,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2678,7 +2679,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2694,7 +2695,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2710,7 +2711,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 msgctxt "{\"cxt\": \"collector_thankyou\", \"id\": 450763440}"
@@ -2732,7 +2733,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2748,7 +2749,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2764,7 +2765,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2780,7 +2781,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2796,7 +2797,7 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
 
 #, python-format
@@ -2812,5 +2813,5 @@ msgstr ""
 "感謝您完成此調查。只要在 2023 年 8 月 30 日之前註冊參加任何一個 Linux "
 "Foundation 的網路學習培訓課程或證書考試，將可獲得 <strong>WOOS2023</strong > "
 "的 75 折優惠。您可以在 https://training.linuxfoundation.org/full-catalog/ "
-"找到完整的培訓和證書目錄。此折扣代碼不適用於 FINOPS "
+"找到完整的培訓和證書目錄。此折扣代碼不適用於搭配由 FINOPS "
 "或由講師帶領的其他培訓課程或證書。"
